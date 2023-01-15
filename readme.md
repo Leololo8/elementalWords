@@ -2,8 +2,8 @@ How to Install
 -------
 Either download the repo from github or:
 ```
-git clone {fill in later}
-cd {fill in later}
+git clone https://github.com/Leololo8/elementalWords.git
+cd elementalWords
 ```
 Note: To use you need python3 installed (can be installed from https://www.python.org/downloads/)
 
